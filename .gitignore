@@ -1,0 +1,15 @@
+# Virtual environment
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
+
+# IDE files
+.idea/
+.vscode/
+
+# Model files (optional if large)

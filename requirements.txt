@@ -1,0 +1,5 @@
+flask
+tensorflow-macos
+numpy
+pillow
+gunicorn
